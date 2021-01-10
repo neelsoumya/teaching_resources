@@ -1,7 +1,7 @@
 # teaching_resources
 
 
-Teaching resources for data science, machine learning, complex systems and computational biology 
+Teaching resources for data science, machine learning, complex systems, computer science and computational biology. 
 
 
 * Teaching resources
