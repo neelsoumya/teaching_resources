@@ -1,6 +1,8 @@
 # teaching_resources
 
 
+Teaching resources for data science, machine learning, complex systems and computational biology 
+
 
 * Teaching resources
 
@@ -14,6 +16,8 @@
 * Machine learning resources
 
     * https://sites.google.com/site/neelsoumya/research-resources/machine-learning
+    
+    * https://github.com/neelsoumya/butterfly_detector
     
     
    
