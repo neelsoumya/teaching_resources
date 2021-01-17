@@ -29,6 +29,8 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://github.com/neelsoumya/basic_statistics
 
 
-* Demo lecture
+* Demo teaching lecture
 
-    * Forthcoming
+    * A lecture on fault tolerant distributed computing
+    
+      * https://youtu.be/omxbpel-b64
