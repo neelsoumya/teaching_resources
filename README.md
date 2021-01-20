@@ -21,7 +21,6 @@ Teaching resources for data science, machine learning, complex systems, computer
     
     
    
-   
 * Basic statistics and prerequisities
 
     * https://sites.google.com/site/neelsoumya/research-resources/basic-statistics
@@ -34,3 +33,7 @@ Teaching resources for data science, machine learning, complex systems, computer
     * A lecture on fault tolerant distributed computing
     
       * https://youtu.be/omxbpel-b64
+
+* Compiled resources for teaching
+
+    * https://osf.io/25gnz/  
