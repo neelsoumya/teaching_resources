@@ -19,6 +19,7 @@ Teaching resources for data science, machine learning, complex systems, computer
     
     * https://github.com/neelsoumya/butterfly_detector
     
+    * https://github.com/neelsoumya/intro-machine-learning
     
    
 * Basic statistics and prerequisities
