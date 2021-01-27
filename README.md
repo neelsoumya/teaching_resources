@@ -35,7 +35,7 @@ Teaching resources for data science, machine learning, complex systems, computer
     
       * https://youtu.be/omxbpel-b64
 
-* Compiled resources for teaching
+* Compiled resources for teaching in Open Science Foundation (OSF)
 
     * https://osf.io/25gnz/  
     
