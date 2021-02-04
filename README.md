@@ -34,6 +34,10 @@ Teaching resources for data science, machine learning, complex systems, computer
     * A lecture on fault tolerant distributed computing
     
       * https://youtu.be/omxbpel-b64
+      
+    * A lecture on a fundamental concept in machine learning (bias variance tradeoff)
+    
+      * https://www.youtube.com/watch?v=4_la9-Ehvmo 
 
 * Resources for teaching compiled in Open Science Foundation (OSF)
 
