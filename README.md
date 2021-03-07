@@ -39,6 +39,11 @@ Teaching resources for data science, machine learning, complex systems, computer
     
       * https://www.youtube.com/watch?v=4_la9-Ehvmo 
 
+* Programming resources for teaching programming languages
+
+    * https://github.com/neelsoumya/programming_resources
+
+
 * Resources for teaching compiled in an Open Science Foundation (OSF) project
 
     * https://osf.io/25gnz/  
