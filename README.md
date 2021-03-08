@@ -50,6 +50,9 @@ Teaching resources for data science, machine learning, complex systems, computer
     
 * Bioinformatics
 
+    * https://sites.google.com/site/neelsoumya/research-resources/bioinformatics
+
+
 * Basics of biology
     
 
