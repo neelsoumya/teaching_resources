@@ -52,8 +52,12 @@ Teaching resources for data science, machine learning, complex systems, computer
 
     * https://sites.google.com/site/neelsoumya/research-resources/bioinformatics
 
+    * https://github.com/neelsoumya/bioinformatics_resources 
+
 
 * Basics of biology
+
+    * https://github.com/neelsoumya/biology_basics
     
 
 * Resources for teaching compiled in an Open Science Foundation (OSF) project
