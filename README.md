@@ -44,6 +44,15 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://github.com/neelsoumya/programming_resources
 
 
+* Immunology
+
+    * https://sites.google.com/site/neelsoumya/immunology-resources
+    
+* Bioinformatics
+
+* Basics of biology
+    
+
 * Resources for teaching compiled in an Open Science Foundation (OSF) project
 
     * https://osf.io/25gnz/  
