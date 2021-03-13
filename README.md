@@ -39,6 +39,12 @@ Teaching resources for data science, machine learning, complex systems, computer
     
       * https://www.youtube.com/watch?v=4_la9-Ehvmo 
 
+
+* Mathematical modelling
+
+    * https://github.com/neelsoumya/mathematical_models
+    
+
 * Programming resources for teaching programming languages
 
     * https://github.com/neelsoumya/programming_resources
