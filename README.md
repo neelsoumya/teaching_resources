@@ -50,7 +50,7 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://github.com/neelsoumya/programming_resources
 
 
-* Compilers and typing theory
+* Compilers and theory of types
 
     * https://en.wikipedia.org/wiki/Principles_of_Compiler_Design
 
