@@ -57,6 +57,12 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://www.cis.upenn.edu/~bcpierce/tapl/
 
 
+* Algorithms
+
+    * Cormen book on algorithms
+
+    * https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf
+
 * Immunology
 
     * https://sites.google.com/site/neelsoumya/immunology-resources
