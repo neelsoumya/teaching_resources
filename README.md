@@ -63,6 +63,12 @@ Teaching resources for data science, machine learning, complex systems, computer
 
     * https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf
 
+
+* Theory of computation
+
+    * https://www.youtube.com/watch?v=EwSYnIX2EF8&list=PLa8f1-ESrfVqh1K3qVxU5n4QZp7koYKcM&index=1
+
+
 * Immunology
 
     * https://sites.google.com/site/neelsoumya/immunology-resources
