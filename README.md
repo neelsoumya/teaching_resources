@@ -88,6 +88,8 @@ Teaching resources for data science, machine learning, complex systems, computer
 
     * https://sites.google.com/site/neelsoumya/teaching
 
+* Communications skills
+
 * Resources for teaching compiled in an Open Science Foundation (OSF) project
 
     * https://osf.io/25gnz/  
