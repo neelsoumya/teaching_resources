@@ -90,6 +90,8 @@ Teaching resources for data science, machine learning, complex systems, computer
 
 * Communications skills
 
+    * https://www.youtube.com/watch?v=Unzc731iCUY
+
 * Resources for teaching compiled in an Open Science Foundation (OSF) project
 
     * https://osf.io/25gnz/  
