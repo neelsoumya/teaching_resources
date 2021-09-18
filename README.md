@@ -98,4 +98,11 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://osf.io/25gnz/  
     
     
+If you like this, please cite the following
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4744564.svg)](https://doi.org/10.5281/zenodo.4744564)
+
+
    
