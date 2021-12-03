@@ -29,6 +29,9 @@ Teaching resources for data science, machine learning, complex systems, computer
     
     * https://github.com/neelsoumya/basic_statistics
 
+* Basic mathematics
+
+    * https://github.com/neelsoumya/mathematics
 
 * Demo teaching lecture
 
