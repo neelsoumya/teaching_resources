@@ -23,6 +23,10 @@ Teaching resources for data science, machine learning, complex systems, computer
     * https://github.com/neelsoumya/intro-machine-learning
 
     * https://github.com/neelsoumya/visualization_lecture
+ 
+    * https://github.com/neelsoumya/public_supervised_machine_learning
+ 
+    * https://github.com/neelsoumya/practical_supervised_machine_learning
 
     
    
